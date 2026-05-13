@@ -44,4 +44,9 @@ Missing Word Prompting:
 
 OUTPUT:
 
+[Prompt_Types_With_Answers (1).pdf](https://github.com/user-attachments/files/27692992/Prompt_Types_With_Answers.1.pdf)
+
+
 RESULT: 
+
+Thus , Exploring the different types of prompts has been done
